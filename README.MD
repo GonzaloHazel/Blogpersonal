@@ -9,4 +9,4 @@ Blog personal usando HTML y Css
 
 
 Previsualizacion:
-![](blogPersonal\assets\images\Preview.jpeg)
+![Previsualizacion](blogPersonal\assets\images\Preview.jpeg)
